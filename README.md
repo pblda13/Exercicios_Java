@@ -32,8 +32,6 @@ Este repositório contém uma variedade de exercícios em Java, desde níveis in
 
 1. **Exercício 1**: Escreva um programa em Java que leia um arquivo CSV e ordene os alunos por nota.
 2. **Exercício 2**: Escreva um programa em Java que implemente uma calculadora científica
-
-.
 3. **Exercício 3**: Escreva um programa em Java que leia um arquivo JSON e permita pesquisar e visualizar os produtos.
 4. **Exercício 4**: Escreva um programa em Java que implemente um jogo de xadrez em modo texto.
 5. **Exercício 5**: Escreva um programa em Java que leia um arquivo XML e permita consultar informações de livros.
