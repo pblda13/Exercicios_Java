@@ -46,3 +46,6 @@ Esses exercícios são apenas uma amostra do que você pode explorar em Java. À
 Espero que esses exercícios sejam úteis para você progredir em sua jornada como programador Java. 
 
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpblda13%2FExercicios_Java&label=VISITORS&labelColor=%23f47373&countColor=%23d9e3f0)
+
+
